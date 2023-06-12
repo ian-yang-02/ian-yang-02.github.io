@@ -2,25 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <i>Georgia Institute of Technology</i>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <a href="https://drive.google.com/file/d/17vQDXQGPWrVAgIxhbktTf0GM-pUstTSP/view?usp=sharing">CV</a> / <a href="https://scholar.google.com/citations?user=7A4ZCDoAAAAJ&hl=en">Google Scholar</a>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I'm a senior studying computer science at Georgia Tech. I'm investigating NLP techniques applied to the [value alignment](https://www.ibm.com/design/ai/ethics/value-alignment/) problem, advised by [Mark Riedl](http://eilab.gatech.edu/mark-riedl.html).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm in the process of writing my undergraduate thesis, tentatively titled <i>Relationship Extraction via Language Models for Normativity Analysis</i>.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm also a visiting research intern at Carnegie Mellon University, advised by [Norman Sadeh](https://www.normsadeh.org/). At CMU I'm interested in NLP applied to data security and [privacy](https://usableprivacy.org/).
+
+Previously I was a Research Intern at The Ohio State University, advised by [Dong Xuan](https://web.cse.ohio-state.edu/~xuan.3/). At OSU I worked primarily on ASR (Automatic Speech Recognition).
+
+I also was previously at [FlightBridge](https://flightbridge.com/), where I was a Full-Stack Software Engineering Intern.
