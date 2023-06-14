@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ian-yang-02
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ian-yang-02/HackGT9
+  - ian-yang-02/KaldiSpeakerVerification
+  - ian-yang-02/kaldi-compiled
+  - vinzhu07/HackGT8
