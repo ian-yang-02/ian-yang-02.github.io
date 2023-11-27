@@ -16,7 +16,6 @@
       year: Expected May 2024
       description:
         - "Major/Cumulative GPA: 4.00/3.92"
-        - Minor in Mathematics
     # - title: Federal teaching diploma
     #   institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
     #   year: 1900
@@ -77,6 +76,7 @@
   contents:
     - title: NLP
     - title: Social Computing
+    - title: Computational Sociolinguistics
       # items:
       #   - Description 1.
       #   - Description 2.
@@ -84,4 +84,4 @@
 - title: Other Interests
   type: list
   contents:
-    - "Hobbies: Yoyoing, Stocks"
+    - Postmodern Philosophy, Yoyoing, Specialty Coffee
