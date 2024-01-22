@@ -23,30 +23,30 @@
     #     - Description 1.
     #     - Description 2.
 
-- title: Experience
+- title: Research
   type: time_table
   contents:
-    - title: Undergraduate Research Assistant
+    - title: Research Assistant
       institution: Sofware and Societal Systems Department, Carnegie Mellon University
-      year: May 2023 - Present
+      year: Aug 2023 - Present
       description:
-        - Visiting researcher as part of the REUSE (Research Experience for Undergraduates in Software Engineering) program at CMU advised by Prof. Norman Sadeh.
-        - Exploring applications of NLP with respect to privacy policies and regulations.
+        - Research assistant in the Usable Privacy Lab advised by Prof. Norman Sadeh.
+        - Exploring applications of NLP with respect to privacy policies and regulations. 2 manuscripts currently under review.
 
-    - title: Undergraduate Research Assistant
-      institution: Entertainment Intelligence Lab, Georgia Institute of Technology
+    - title: Research Assistant
+      institution: Human-Centered AI Lab, Georgia Institute of Technology
       year: Jan 2022 - Present
       description:
         - Research assistant in the Entertainment Intelligence Lab advised by Prof. Mark Riedl and mentored by PhD candidate Spencer Frazier.
         - Currently writing undergraduate thesis titled <i>Relationship Extraction via Language Models for Normativity Analysis</i>.
 
-    - title: Software Development Intern
-      institution: FlightBridge, Inc.
-      year: Aug 2021 - May 2022
+    - title: REU Student
+      institution: Sofware and Societal Systems Department, Carnegie Mellon University
+      year: May 2023 - Aug 2023
       description:
-        - Software engineering intern, crafting full-stack solutions to bugs and developed novel features. Key technologies used were ASP.NET, C#, SQL, Microsoft Azure, and Subversion.
+        - Visiting researcher as part of the REUSE (Research Experience for Undergraduates in Software Engineering) program at CMU advised by Prof. Norman Sadeh. Poster presented at final research symposium.
 
-    - title: Undergraduate Research Assistant
+    - title: Research Assistant
       institution: The Ohio State University
       year: Apr 2021 - May 2022
       description:
@@ -71,6 +71,36 @@
 #       items: 
 #         - Max Planck Medal
 
+- title: Teaching
+  type: time_table
+  contents:
+    - title: CSE 6040 - Tutor
+      institution: Master of Analytics, Georgia Tech
+      year: Aug 2022 - Present
+      description:
+        - Tutor for 1000+ students enrolled in CSE 6040, Computing for Data Analytics, in the Master of Analytics program.
+
+    - title: CS 1100 - Teaching Assistant
+      institution: College of Computing, Georgia Tech
+      year: Aug 2021 - Present
+      description:
+        - Teaching Assistant for CS 1100, Freshman Leap Seminar.
+
+    - title: Peer Mentor
+      institution: College of Computing, Georgia Tech
+      year: Aug 2021 - Present
+      description:
+        - Mentored 55 freshmen in their transition to the College of Computing at Georgia Tech.
+
+- title: Industry
+  type: time_table
+  contents:
+    - title: Software Development Intern
+      institution: FlightBridge, Inc.
+      year: Aug 2021 - May 2022
+      description:
+        - Software engineering intern, crafting full-stack solutions to bugs and developed novel features. Key technologies used were ASP.NET, C#, SQL, Microsoft Azure, and Subversion.
+
 - title: Academic Interests
   type: nested_list
   contents:
@@ -84,4 +114,4 @@
 - title: Other Interests
   type: list
   contents:
-    - Postmodern Philosophy, Yoyoing, Specialty Coffee
+    - Postmodern Philosophy, Yoyos, Specialty Coffee
