@@ -17,12 +17,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I'm a senior studying computer science at Georgia Tech. I'm investigating NLP techniques applied to the [value alignment](https://www.ibm.com/design/ai/ethics/value-alignment/) problem, advised by [Mark Riedl](http://eilab.gatech.edu/mark-riedl.html).
+Hello! I'm a 4th-year undergrad studying computer science at Georgia Tech. I also dabble in mathematics, philosophy, and linguistics.
 
-I'm in the process of writing my undergraduate thesis, tentatively titled <i>Relationship Extraction via Language Models for Normativity Analysis</i>.
+Broadly, I'm interested in understanding the sociocultural implications of language technologies and how to minimize non-normative behaviors in intelligent agents.
 
-I'm also a visiting research intern at Carnegie Mellon University, advised by [Norman Sadeh](https://www.normsadeh.org/). At CMU I'm interested in NLP applied to data security and [privacy](https://usableprivacy.org/).
+My current research at Georgia Tech is in NLP techniques applied to the [value alignment](https://en.wikipedia.org/wiki/AI_alignment) problem, advised by [Mark Riedl](http://eilab.gatech.edu/mark-riedl.html).
 
-Previously I was a Research Intern at The Ohio State University, advised by [Dong Xuan](https://web.cse.ohio-state.edu/~xuan.3/). At OSU I worked primarily on ASR (Automatic Speech Recognition).
+I'm also a research assistant at Carnegie Mellon University, advised by [Norman Sadeh](https://www.normsadeh.org/). At CMU I'm interested in NLP applied to data security and [privacy](https://usableprivacy.org/).
 
-I also was previously at [FlightBridge](https://flightbridge.com/), where I was a Full-Stack Software Engineering Intern.
+Previously, I was a research assistant at The Ohio State University (advised by [Dong Xuan](https://scholar.google.com/citations?hl=en&user=11NcM2EAAAAJ&view_op=list_works&sortby=pubdate)), and a Full-Stack Software Engineering Intern at [FlightBridge](https://flightbridge.com/).

@@ -104,7 +104,7 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: NLP
+    - title: Natural Language Processing
     - title: Social Computing
     - title: Computational Sociolinguistics
       # items:
