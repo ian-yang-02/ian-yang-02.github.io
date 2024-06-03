@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i>Georgia Institute of Technology</i>
+subtitle: <i>Georgia Institute of Technology</i>, <i>Carnegie Mellon University</i>
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I'm a 4th-year undergrad studying computer science at Georgia Tech. I also dabble in mathematics, philosophy, and linguistics.
+Hello! I recently completed my undergraduate degree in computer science at Georgia Tech. I also dabble in mathematics, philosophy, and linguistics.
 
 Broadly, I'm interested in understanding the sociocultural implications of language technologies and how to minimize non-normative behaviors in intelligent agents.
 

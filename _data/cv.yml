@@ -13,9 +13,11 @@
   contents:
     - title: B.S. Computer Science (Intelligence/Theory)
       institution: Georgia Institute of Technology
-      year: Expected May 2024
+      year: May 2024
       description:
-        - "Major/Cumulative GPA: 4.00/3.92"
+        - "Major/Cumulative GPA: 4.00/3.93"
+        - "Honors: <i>Summa Cum Laude<i>"
+        - "Thesis: <i>Relationship Extraction via Language Models for Normativity Analysis</i>"
     # - title: Federal teaching diploma
     #   institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
     #   year: 1900
@@ -37,20 +39,20 @@
       institution: Human-Centered AI Lab, Georgia Institute of Technology
       year: Jan 2022 - Present
       description:
-        - Research assistant in the Entertainment Intelligence Lab advised by Prof. Mark Riedl and mentored by PhD candidate Spencer Frazier.
-        - Currently writing undergraduate thesis titled <i>Relationship Extraction via Language Models for Normativity Analysis</i>.
+        - Research assistant in the Entertainment Intelligence Lab advised by Prof. Mark Riedl.
+        - Working on NLP Normative Alignment.
 
     - title: REU Student
       institution: Sofware and Societal Systems Department, Carnegie Mellon University
       year: May 2023 - Aug 2023
       description:
-        - Visiting researcher as part of the REUSE (Research Experience for Undergraduates in Software Engineering) program at CMU advised by Prof. Norman Sadeh. Poster presented at final research symposium.
+        - Visiting researcher as part of the REUSE (Research Experience for Undergraduates in Software Engineering) program at CMU advised by Prof. Norman Sadeh. Poster presented at research symposium.
 
     - title: Research Assistant
       institution: The Ohio State University
       year: Apr 2021 - May 2022
       description:
-        - Research assistant at The Ohio State University advised by Prof. Dong Xuan and mentored by PhD candidate Yunqi Zhang.
+        - Research assistant at The Ohio State University advised by Prof. Dong Xuan.
         - Worked on a variety of projects related to ASR (Automatic Speech Recognition).
 
 # - title: Open Source Projects
@@ -76,19 +78,19 @@
   contents:
     - title: CSE 6040 - Tutor
       institution: Master of Analytics, Georgia Tech
-      year: Aug 2022 - Present
+      year: Aug 2022 - May 2024
       description:
         - Tutor for 1000+ students enrolled in CSE 6040, Computing for Data Analytics, in the Master of Analytics program.
 
     - title: CS 1100 - Teaching Assistant
       institution: College of Computing, Georgia Tech
-      year: Aug 2021 - Present
+      year: Aug 2021 - May 2024
       description:
         - Teaching Assistant for CS 1100, Freshman Leap Seminar.
 
     - title: Peer Mentor
       institution: College of Computing, Georgia Tech
-      year: Aug 2021 - Present
+      year: Aug 2021 - May 2024
       description:
         - Mentored 55 freshmen in their transition to the College of Computing at Georgia Tech.
 
@@ -114,4 +116,4 @@
 - title: Other Interests
   type: list
   contents:
-    - Postmodern Philosophy, Yoyos, Specialty Coffee
+    - Linguistics, Postmodern Philosophy, Yoyos, Specialty Coffee

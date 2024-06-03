@@ -8,7 +8,6 @@
       <source 
         class="responsive-img-srcset"
         media="(max-width: {{ i }}px)" 
-        srcset="{{ img_path | relative_url }}-{{ i }}.webp"
       />
     {% endfor -%}
     {% endif %}
@@ -16,6 +15,8 @@
     <!-- Fallback to the original file -->
     <img 
       src="{{ include.path | relative_url }}"
+      onmouseover="this.src='assets/img/prof_pic_haha.jpg'"
+      onmouseout="this.src='{{ include.path | relative_url }}'"
       {% if include.class %}class="{{ include.class }}"{% endif %}  
       {% if include.width %}width="{{ include.width }}"{% else %}width="auto"{% endif %} 
       {% if include.height %}height="{{ include.height }}"{% else %}height="auto"{% endif %} 
