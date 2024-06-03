@@ -9,6 +9,7 @@
         class="responsive-img-srcset"
         media="(max-width: {{ i }}px)" 
       />
+      <!-- inside source: srcset="???" srcset="{% for i in site.imagemagick.widths %}{{ img_path | relative_url }}-{{ i }}.webp {{i}}w,{% endfor %}"-->
     {% endfor -%}
     {% endif %}
 
