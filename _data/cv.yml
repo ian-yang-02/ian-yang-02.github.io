@@ -1,13 +1,3 @@
-# - title: General Information
-#   type: map
-#   contents:
-#     - name: Full Name
-#       value: Ian Yang
-#     - name: Date of Birth
-#       value: 14th March 1879
-#     - name: Languages
-#       value: English, German
-
 - title: Education
   type: time_table
   contents:
@@ -18,22 +8,24 @@
         - "Major/Cumulative GPA: 4.00/3.93"
         - "Honors: <i>Summa Cum Laude<i>"
         - "Thesis: <i>Relationship Extraction via Language Models for Normativity Analysis</i>"
-    # - title: Federal teaching diploma
-    #   institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-    #   year: 1900
-    #   description:
-    #     - Description 1.
-    #     - Description 2.
+
 
 - title: Research
   type: time_table
   contents:
     - title: Research Assistant
+      institution: MinnesotaNLP, University of Minnesota
+      year: June 2024 - Present
+      description:
+        - Collaborating with Profs. Mingyi Hong and Dongyeop Kang in the MinnesotaNLP group.
+        - Working on interpretability reward shaping for RLHF.
+
+    - title: Research Assistant
       institution: Sofware and Societal Systems Department, Carnegie Mellon University
       year: Aug 2023 - Present
       description:
         - Research assistant in the Usable Privacy Lab advised by Prof. Norman Sadeh.
-        - Exploring applications of NLP with respect to privacy policies and regulations. 2 manuscripts currently under review.
+        - Exploring applications of NLP with respect to usable privacy and security.
 
     - title: Research Assistant
       institution: Human-Centered AI Lab, Georgia Institute of Technology

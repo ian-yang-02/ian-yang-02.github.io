@@ -19,12 +19,12 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! I recently completed my undergraduate degree in computer science at Georgia Tech. I also dabble in mathematics, philosophy, and linguistics.
 
-Broadly, I'm interested in understanding the sociocultural implications of language technologies and how to minimize non-normative behaviors in intelligent agents.
+Broadly, I'm interested in <strong>socially-aware natural language processing</strong>. I hope to understand the sociocultural implications of language technologies and how to minimize non-normative behaviors in intelligent agents.
 
 My current research at Georgia Tech is in NLP techniques applied to the [value alignment](https://en.wikipedia.org/wiki/AI_alignment) problem, advised by [Mark Riedl](http://eilab.gatech.edu/mark-riedl.html).
 
 I'm also a research assistant at Carnegie Mellon University, advised by [Norman Sadeh](https://www.normsadeh.org/). At CMU I'm interested in NLP applied to data security and [privacy](https://usableprivacy.org/).
 
-Most recently, I have been collaborating with [Mingyi Hong](https://people.ece.umn.edu/~mhong/mingyi.html) and [Dongyeop Kang](https://dykang.github.io/) at the University of Minnesota. At UMN I am working on dense reward shaping for RLHF alignment tasks.
+Most recently, I have been collaborating with [Mingyi Hong](https://people.ece.umn.edu/~mhong/mingyi.html) and [Dongyeop Kang](https://dykang.github.io/) at the University of Minnesota. At UMN I am working on interpretability reward shaping for RLHF alignment tasks.
 
-Previously, I was a research assistant at The Ohio State University (advised by [Dong Xuan](https://scholar.google.com/citations?hl=en&user=11NcM2EAAAAJ&view_op=list_works&sortby=pubdate)), and a Full-Stack Software Engineering Intern at [FlightBridge](https://flightbridge.com/).
+Previously, I was a research assistant at The Ohio State University (advised by [Dong Xuan](https://scholar.google.com/citations?hl=en&user=11NcM2EAAAAJ&view_op=list_works&sortby=pubdate)) where I worked on automatic speech recognition (ASR), and a Full-Stack Software Engineering Intern at [FlightBridge](https://flightbridge.com/).
