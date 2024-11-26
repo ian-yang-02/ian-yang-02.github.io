@@ -9,7 +9,7 @@ profile:
   image: IMG_9550.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <a href="https://drive.google.com/file/d/1qkIe0NOYWdAVaGWEdKuuPZMebLQlqNv0/view?usp=sharing">CV</a> / <a href="https://scholar.google.com/citations?user=7A4ZCDoAAAAJ&hl=en">Google Scholar</a>
+    <a href="https://drive.google.com/file/d/1qIvF9y2_lIeBz-8Q72Jt--yH3EY8W-iR/view?usp=sharing">CV</a> / <a href="https://scholar.google.com/citations?user=7A4ZCDoAAAAJ&hl=en">Google Scholar</a>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
