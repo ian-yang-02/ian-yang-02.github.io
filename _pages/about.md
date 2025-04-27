@@ -2,6 +2,8 @@
 layout: about
 title: about
 permalink: /
+nav: false
+
 subtitle: <i>Incoming @ University of Washington iSchool</i> # <i>Georgia Institute of Technology</i>, <i>Carnegie Mellon University</i>, <i>University of Minnesota</i>
 
 profile:
