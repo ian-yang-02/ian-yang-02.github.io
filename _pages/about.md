@@ -4,7 +4,7 @@ title: about
 permalink: /
 nav: false
 
-subtitle: <i>Incoming @ University of Washington iSchool</i> # <i>Georgia Institute of Technology</i>, <i>Carnegie Mellon University</i>, <i>University of Minnesota</i>
+subtitle: <i>University of Washington</i> # <i>Georgia Institute of Technology</i>, <i>Carnegie Mellon University</i>, <i>University of Minnesota</i>
 
 cv_pdf: Ian_Yang_CV.pdf
 
@@ -21,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am an incoming Information Science PhD student at the University of Washington, where my research will be supported by an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
+Hello! I am an Information Science PhD student at the University of Washington. My advisor is [Aylin Caliskan](https://faculty.washington.edu/aylin/). My research is also supported by an [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
 
 Broadly, I'm interested in <strong>socially-aware natural language processing</strong>. I hope to understand the sociocultural implications of language technologies and how to minimize non-normative behaviors in intelligent agents.
 
