@@ -13,6 +13,7 @@ UW_Diversity_Statement_pdf: Diversity_Statement_UW_pub.pdf
 PhD_apps_CV_pdf: PhD_apps_CV.pdf
 GRFP_Personal_Statement_pdf: GRFP_Personal_Statement_Final.pdf
 GRFP_Research_Plan_pdf: GRFP_Graduate_Research_Plan_Final.pdf
+grfp_reviews_pdf: grfp_reviews.pdf
 ---
 
 <i>If you are applying for PhD programs and/or the GRFP and want to chat don't hesitate to [reach out](mailto:iyang30@uw.edu) (especially if you belong to a traditionally underrepresented group in higher education!!)</i>
@@ -127,3 +128,9 @@ My own materials were by no means perfect, and each time I read through now I fi
 <a href="{{ page.GRFP_Personal_Statement_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer">My Personal Statement</a>
 
 <a href="{{ page.GRFP_Research_Plan_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer">My Graduate Research Plan</a>
+
+<strong>Update as of 9/29/25:</strong>
+
+So the NSF has finally released the reviews for the 2024-2025 cycle. Here are mine:
+
+<a href="{{ page.grfp_reviews_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer">GRFP Reviews</a>
