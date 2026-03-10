@@ -6,14 +6,14 @@ nav: false
 
 subtitle: <i>University of Washington</i> # <i>Georgia Institute of Technology</i>, <i>Carnegie Mellon University</i>, <i>University of Minnesota</i>
 
-cv_pdf: Ian_Yang_CV.pdf
+cv_pdf: Ian_Yang_CV_2026.pdf
 
 profile:
   align: right
-  image: IMG_9550.jpg
+  image: profile_2.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <a href="./assets/pdf/Ian_Yang_CV_2025.pdf" target="_blank" rel="noopener noreferrer">CV</a> / <a href="https://scholar.google.com/citations?hl=en&user=7A4ZCDoAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
+    <a href="./assets/pdf/Ian_Yang_CV_2026.pdf" target="_blank" rel="noopener noreferrer">CV</a> / <a href="https://scholar.google.com/citations?hl=en&user=7A4ZCDoAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
